@@ -16,4 +16,5 @@ use Illuminate\Http\Request;
 Route::group(['namespace' => 'Api'], function(){
     Route::post('login', 'AuthController@login');
     Route::post('CheckToken', 'AuthController@checkToken');
+    Route::post('logout', 'AuthController@logout');
 });
