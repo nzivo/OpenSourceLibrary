@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nzivo/OpenSourceLibrary" target="_blank"><img src="https://github.com/nzivo/OpenSourceLibrary/logo.svg" width="400"></a></p>
+<p align="center"><a href="https://github.com/nzivo/OpenSourceLibrary" target="_blank"><img src="https://github.com/nzivo/OpenSourceLibrary/blob/master/logo.png" width="400"></a></p>
 
 ## About OSLibrary
 
